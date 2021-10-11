@@ -38,8 +38,7 @@ Jimmy Lozano
 
 In this video you will learn how to host your Laravel API in AWS in under 10 minutes! We will use AWS Elastic Beanstalk to deploy our application.
 
-Set up a MySQL Database in AWS! (2020) (9:23) -
-<https://www.youtube.com/watch?v=LIA3KkFnWrc&ab_channel=JimmyLozano>
+[Set up a MySQL Database in AWS! (2020)]( https://www.youtube.com/watch?v=LIA3KkFnWrc&ab_channel=JimmyLozano )
 
 [(0:15)]( https://youtu.be/D0wxC7aZ21A?t=15 ) `Create Application.`
 
@@ -50,11 +49,11 @@ Set up a MySQL Database in AWS! (2020) (9:23) -
 ![screenshot of sample]( https://github.com/mslobodyanyuk/aws-laravel_jlozano/blob/main/public/images/firefox/1.png )
 
 [(1:20)]( https://youtu.be/D0wxC7aZ21A?t=80 ) 
-_"Remember to deselect the `"vendor"' folder, this is very important!"_
+_"Remember to deselect the `"vendor"` folder, this is very important!"_
 
 ![screenshot of sample]( https://github.com/mslobodyanyuk/aws-laravel_jlozano/blob/main/public/images/aws/2.png )
 
-_The archive `kfc-laravel.zip` of the used project is located in the `public` folder.
+_The archive `kfc-laravel.zip` of the used project is located in the `public` folder._
 
 [(2:20)]( https://youtu.be/D0wxC7aZ21A?t=140 ) `Application name.`
 
@@ -102,5 +101,4 @@ Jimmy Lozano
 
 [Host your Laravel API in AWS in under 10 minutes! FAST AND EASY (2021)	(6:02)]( https://www.youtube.com/watch?v=D0wxC7aZ21A&ab_channel=JimmyLozano )
 
-Set up a MySQL Database in AWS! (2020) - 
-<https://www.youtube.com/watch?v=LIA3KkFnWrc&ab_channel=JimmyLozano>
+[Set up a MySQL Database in AWS! (2020)]( https://www.youtube.com/watch?v=LIA3KkFnWrc&ab_channel=JimmyLozano )
